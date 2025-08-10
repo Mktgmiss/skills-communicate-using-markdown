@@ -1,4 +1,4 @@
-<header>
+<header> ### My edits on this page.
 
 <!--
   <<< Author notes: Course header >>>
